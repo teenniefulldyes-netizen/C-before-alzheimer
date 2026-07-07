@@ -1,6 +1,12 @@
 # Note for C
 
-I just make this repo for remembrance
+#include <stdio.h>
+
+#include <math.h>
+
+#include <string.h>
+
+#include <stdbool.h>
 
 # MATH FUNCTION
 
